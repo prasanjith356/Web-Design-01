@@ -1,0 +1,19 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Caveat:wght@400;700&family=Dosis:wght@500&family=Exo+2:wght@300&family=Josefin+Sans:wght@600&family=Montserrat:wght@500&family=Righteous&family=Zen+Kurenaido&display=swap');
+
+*{
+	font-family: 'Montserrat', sans-serif;
+	
+}
+/*body{
+	background-color:#333;
+
+}
+
+h1,h2,h3{
+	color:#FFF;*/
+
+.img1:hover{
+	opacity:0.8;
+}
+
